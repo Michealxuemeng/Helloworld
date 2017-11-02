@@ -1,6 +1,10 @@
 #include<apue.h>
 #include<dirent.h>
 
+/*
+use it for learn github
+
+*/
 int main(int argc, char *argv[])
 {
   DIR *dir;
